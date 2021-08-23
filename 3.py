@@ -1,0 +1,10 @@
+print("Seja bem-vindo")
+nome = print(input ("informe seu nome: "))
+print("Ola")
+a = int(input("Informe o dia em que você nasceu dia: "))
+b = int(input("Informe o mês em que você nasceu mês: "))
+c = int(input("Informe o ano em que você nasceu ano: "))
+d = (2021 - c)
+print("você tem: ", d)
+
+print(input("nome: "  and "dia: " ,a and "mês: " ,b and "ano: " ,c))
